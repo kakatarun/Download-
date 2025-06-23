@@ -6,8 +6,8 @@
     
     
 <body>
-    <h1>HII 
-    AM TARUN YOU EDIT YOUR VIDEO TO PAY LESS 60s !!</h1>
+    <h1>HII  
+     AM TARUN YOU EDIT YOUR VIDEO TO PAY LESS 60s !!</h1>
             <h2>Pay via UPI</h2>
     <a href="upi://pay?pa=tarunkaka@fam&pn=Example%20Merchant&am=80.00&cu=INR">
         <button>Pay ₹80</button>
